@@ -1,0 +1,17 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/lodash": "^4.17.20",
+    "axios": "^1.13.2",
+    "lodash": "^4.17.21"
+  }
+}
