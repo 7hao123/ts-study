@@ -60,3 +60,4 @@ export class UserListUtils { }
 // ...
 
 // 类似的，如图片地址、配置信息这样的常量，也可以使用 Class + 静态成员来定义。
+// public/private是ts独有的，static js也有
